@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-10-25T14:46:31.175Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.61" etag="-HcKgQ_GYqe1KNHcuufz" version="22.0.8" type="google">
+  <diagram name="Page-1" id="oaZSm0ZiP5a8zgBXpxJr">
+    <mxGraphModel dx="1113" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMeLuPTHQc0ENURUh_kP-2" target="FMeLuPTHQc0ENURUh_kP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMeLuPTHQc0ENURUh_kP-6" target="FMeLuPTHQc0ENURUh_kP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-6" value="Input p" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMeLuPTHQc0ENURUh_kP-8" target="FMeLuPTHQc0ENURUh_kP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-8" value="Input r" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMeLuPTHQc0ENURUh_kP-10" target="FMeLuPTHQc0ENURUh_kP-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-10" value="Input t" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMeLuPTHQc0ENURUh_kP-12" target="FMeLuPTHQc0ENURUh_kP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-12" value="Simple interest=&lt;br&gt;p*r*t" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FMeLuPTHQc0ENURUh_kP-14" target="FMeLuPTHQc0ENURUh_kP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-14" value="simple interest" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="390" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-18" value="Stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FMeLuPTHQc0ENURUh_kP-20" value="SIMPLE INTEREST" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-10" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
