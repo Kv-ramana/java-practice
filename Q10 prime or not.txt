@@ -1,0 +1,17 @@
+Q10 prime or not
+
+step1: start
+step2: read n
+step3:set i=2
+step4:repeat steps 5 and 6 until i<n 
+step5: (check whether n is divisible or not)
+       if n%i==0 then
+        Goto step7
+else 
+    goto step6
+step6:seti=i+i+1
+step7:if i==n then  
+      print "number is prime"
+    else
+      print "number is not prime"
+step8: stop

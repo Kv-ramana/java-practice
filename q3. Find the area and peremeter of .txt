@@ -1,0 +1,17 @@
+q3. Find the area and peremeter of circle, rectangle and square
+Step 1: Start
+Step 2: Input radius
+Step 3: let pi = 3.14
+Step 4: area = pi * radius * radius
+Step 6: print area
+Step 7: stop
+
+
+circum freance
+
+Step 1: Start
+Step 2: input radius
+Step 3: let pi = 3.14
+Step 5: circumference = 2 * pi * radius
+Step 6: print circumference 
+Step 7: stop

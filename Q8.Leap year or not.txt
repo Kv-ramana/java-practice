@@ -1,0 +1,10 @@
+Q8.Leap year or not
+
+Step 1: Start
+Step 2: Read the value of the year to be checked from the user
+Step 3: Assign the value to a variable, say ‘year’
+Step 4: If (year%4 = 0 AND year%100 != 0) OR year%400 = 0, then:
+	Step 4.1: Display “Leap Year”
+Step 5: Else
+	Step 5.1: Display “Not Leap Year”
+Step 6: Stop

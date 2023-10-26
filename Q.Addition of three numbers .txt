@@ -1,0 +1,11 @@
+Q.Addition of three numbers 
+
+
+Step1.Start
+Step2.declare sum = 0
+Step3.read number num1
+step4.read number num2
+step5.read number num3
+step6.add num1, num2, num3 and assign result to variable sum
+step7.print sum
+step.stop

@@ -1,0 +1,13 @@
+
+
+Algorithm Library_Management_System
+1. Start
+2. Initialize book list.
+3. Display options: Add, Search, Issue, Return, Exit.
+4. If Add: Get book details, add to list.
+5. If Search: Get title/author, display matches.
+6. If Issue: Get card number and title, issue if available.
+7. If Return: Get card number and title, accept if valid.
+8. If Exit: End program.
+9. Repeat from step 3 unless Exit.
+10. End

@@ -1,0 +1,8 @@
+Q4.simple interest 
+step1.Start
+step2.Input the principal amount (P).
+step3.Input the rate of interest (R) as a decimal.
+step4.Input the time period in years (T).
+step5.Calculate simple interest (SI) using the formula: SI = (P * R * T)/100
+step6.Output the simple interest (SI).
+step7.End

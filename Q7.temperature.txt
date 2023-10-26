@@ -1,0 +1,9 @@
+Q7.temperature
+
+Step 1: Start
+Step 2: Read the value of temperature to be converted from the user
+Step 3: Assign the value to a variable, say ‘cel’
+Step 4: Initialize f = 0
+Step 5: f = ((5/9) * cel ) + 32
+Step 6: Display f
+Step 7: Stop

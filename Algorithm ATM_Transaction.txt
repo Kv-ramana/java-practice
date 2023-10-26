@@ -1,0 +1,18 @@
+Algorithm ATM_Transaction
+1. Start
+2. Insert Card
+3. If card is valid, proceed to step 4. Else, eject card and end.
+4. Prompt for PIN
+5. If PIN is correct, proceed to step 6. Else, go back to step 4.
+6. Display options: Check Balance, Withdraw Cash, Deposit, Exit.
+7. If Check Balance: Display account balance.
+8. If Withdraw Cash: 
+    1. Prompt for amount to withdraw.
+    2. If sufficient balance, dispense cash and debit account.
+    3. Else, display insufficient balance message.
+9. If Deposit:
+    1. Accept cash or check deposit.
+    2. Credit account with deposit amount.
+10. If Exit: Eject card and end transaction.
+11. Repeat from step 6 unless Exit is selected.
+12. End

@@ -1,0 +1,8 @@
+Q12.Sum of N Natural Numbers
+
+step1 :start
+step2: declare a variable n, i and sum as integer
+step3: Read number n
+step4:for i upto increment i by 1 and i=1
+step5;sum=sum+i
+step6:Print sum
