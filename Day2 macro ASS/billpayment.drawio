@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2023-10-27T02:58:20.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="L0JAELIgn_KT-THQD9Yr" version="22.0.8" type="google">
+  <diagram name="Page-1" id="i-pNpg1xgkIktkMruNm_">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bMkE3rCrPe1QJ3-Ra-gS-1" target="bMkE3rCrPe1QJ3-Ra-gS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="70" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bMkE3rCrPe1QJ3-Ra-gS-2" target="bMkE3rCrPe1QJ3-Ra-gS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-2" value="insert&amp;nbsp; ATM card" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bMkE3rCrPe1QJ3-Ra-gS-4" target="bMkE3rCrPe1QJ3-Ra-gS-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-4" value="enter the pin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bMkE3rCrPe1QJ3-Ra-gS-6" target="bMkE3rCrPe1QJ3-Ra-gS-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-6" value="select Bill payments" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bMkE3rCrPe1QJ3-Ra-gS-8" target="bMkE3rCrPe1QJ3-Ra-gS-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-8" value="choose the biller" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bMkE3rCrPe1QJ3-Ra-gS-10" target="bMkE3rCrPe1QJ3-Ra-gS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-10" value="enter the account number" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bMkE3rCrPe1QJ3-Ra-gS-12" target="bMkE3rCrPe1QJ3-Ra-gS-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-12" value="enter the amount" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bMkE3rCrPe1QJ3-Ra-gS-15" target="bMkE3rCrPe1QJ3-Ra-gS-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-15" value="confirm trasaction" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="570" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bMkE3rCrPe1QJ3-Ra-gS-17" target="bMkE3rCrPe1QJ3-Ra-gS-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-17" value="transfer amount" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="650" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bMkE3rCrPe1QJ3-Ra-gS-19" target="bMkE3rCrPe1QJ3-Ra-gS-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-19" value="transection completed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="730" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="bMkE3rCrPe1QJ3-Ra-gS-21" value="stop" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="800" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

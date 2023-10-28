@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-10-27T02:51:21.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69" etag="JNcznVJG6oX-bpU9abct" version="22.0.8" type="google">
+  <diagram name="Page-1" id="fYcZCn30iiQ5FmbSH2AP">
+    <mxGraphModel dx="1242" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqzOLtEaFSzJpa3GuQfP-1" target="LqzOLtEaFSzJpa3GuQfP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-1" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqzOLtEaFSzJpa3GuQfP-2" target="LqzOLtEaFSzJpa3GuQfP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-2" value="insert ATM card" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqzOLtEaFSzJpa3GuQfP-4" target="LqzOLtEaFSzJpa3GuQfP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-4" value="enter pin" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqzOLtEaFSzJpa3GuQfP-6" target="LqzOLtEaFSzJpa3GuQfP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-6" value="select trasfer funds option" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="290" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqzOLtEaFSzJpa3GuQfP-8" target="LqzOLtEaFSzJpa3GuQfP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-8" value="enter the account number" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqzOLtEaFSzJpa3GuQfP-10" target="LqzOLtEaFSzJpa3GuQfP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqzOLtEaFSzJpa3GuQfP-10" target="LqzOLtEaFSzJpa3GuQfP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-10" value="enter the amount transfer" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqzOLtEaFSzJpa3GuQfP-14" target="LqzOLtEaFSzJpa3GuQfP-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-14" value="confirm the transaction" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LqzOLtEaFSzJpa3GuQfP-17" target="LqzOLtEaFSzJpa3GuQfP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-17" value="transaction completed" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="590" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LqzOLtEaFSzJpa3GuQfP-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="680" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
